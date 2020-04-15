@@ -8,7 +8,7 @@ First, get yourself set up with a [Heroku account and tools](http://devcenter.he
 When you have a git repository with your application (for example by forking this one),
 you can register it as a Heroku app using my version of the buildpack:
 
-    heroku create -s cedar --buildpack https://github.com/Mashweb/heroku-cl-example2
+    heroku create -s cedar --buildpack https://github.com/Mashweb/heroku-buildpack-cl2
 
 And deploy:
 
